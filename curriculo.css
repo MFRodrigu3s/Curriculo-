@@ -51,3 +51,65 @@ body {
     border-bottom: 1px solid black;
     font-size: 1.45rem;
 }
+
+
+#apresentacao-div {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.titulo{
+    color: white;
+    font-size: 3.2rem;
+}
+
+.subtitulo{
+    color: white;
+    margin-top: 10px;
+    font-size: 1.2rem;
+}
+
+#foto {
+    margin-top: 50px;
+    width: 500px;
+}
+
+#titulo-contatos {
+    margin-top: 50px;
+    font-size: 2rem;
+}
+
+#links-contatos {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo {
+    width: 100px;
+}
+
+#gmail {
+    margin-top: 15px;
+}
+
+.contato-div a {
+    color: white;
+    text-decoration: none;
+}
+
+.contato-div a p {
+    margin-top: 10px;
+    font-size: 1.3rem;
+}
+
+.contato-div a p:hover {
+    transition: 300ms;
+    color: darkgrey;
+    font-size: 1.5rem;
+}
+
+.contato-div a img:hover {
+    transition: 300ms;
+    width: 125px;
+}
